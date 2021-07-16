@@ -1,5 +1,7 @@
 // IMPORT MODULES under test here:
 
+// when you go live, change the URL to /text to see if these tests pass
+
 import { add, sub, mult, div } from '../utils.js'
 
 // using a test library

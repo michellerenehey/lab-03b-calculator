@@ -111,3 +111,29 @@ footer {
     }
 
   }
+
+button {
+    color: green;
+    background-color: lightpink;
+    border-radius: 20px;
+}
+
+input {
+    border-radius: 20px;
+    border-width: thin;
+    background-color: peachpuff;
+}
+
+h1 {
+    color: darkgreen; 
+    font-size: 40px;
+    font-weight: bold;
+    justify-content: center;
+    align-content: center;
+    margin-top: 50px;
+}
+
+h3 {
+    color: darkgreen; 
+    font-size: 20px;
+}
